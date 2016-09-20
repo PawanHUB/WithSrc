@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>NA1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>NA1</value>
+    </caseValues>
+    <fields>
+        <label><!-- NA11 --></label>
+        <name>NA11__c</name>
+    </fields>
+    <fields>
+        <label><!-- NA12 --></label>
+        <name>NA12__c</name>
+    </fields>
+    <fields>
+        <label><!-- NA1 --></label>
+        <name>NA1__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>This custom setting holds mapping for contact attribute to public group and chatter group</description>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Chatter_Group__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Chatter Group Name</inlineHelpText>
+        <label>Chatter Group</label>
+        <length>55</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Profile__c</fullName>
+        <externalId>false</externalId>
+        <label>Profile</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Public_Group__c</fullName>
+        <externalId>false</externalId>
+        <label>Public Group</label>
+        <length>55</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>FLBCouncilMap</label>
+    <visibility>Protected</visibility>
+</CustomObject>

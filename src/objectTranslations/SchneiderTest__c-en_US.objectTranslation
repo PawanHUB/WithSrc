@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SchneiderTest</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SchneiderTest</value>
+    </caseValues>
+    <fields>
+        <label><!-- Test2 --></label>
+        <name>Test2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test3 --></label>
+        <name>Test3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test4 --></label>
+        <name>Test4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test --></label>
+        <name>Test__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>TestVR</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>TestVR2</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>TestVR3</name>
+    </validationRules>
+</CustomObjectTranslation>
